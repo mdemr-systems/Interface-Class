@@ -4,11 +4,13 @@ You will find links to documentation for all topics covered in class.
 
 # Documentation
 
-## FHIR
+## FHIR Official
 
 [FHIR DSTU2 documentation](https://www.hl7.org/fhir/DSTU2/index.html)
 
 [FHIR STU3 documentation](http://hl7.org/fhir/)
+
+## FHIR Development and Testing
 
 [Centricity FHIR developer portal](https://mydata.gehealthcare.com/home)
 
