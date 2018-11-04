@@ -1,6 +1,6 @@
 **Welcome the class website!**
 
-You will find link to documentation for all topics covered in class.
+You will find links to documentation for all topics covered in class.
 
 # Documentation
 
