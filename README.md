@@ -1,10 +1,10 @@
-# Welcome to GitHub Pages
-
 Welcome the class website!
 
 You will find link to documentation for all topics covered in class.
 
-### Documentation
+# Documentation
+
+## FHIR
 
 [FHIR DSTU2 documentation](https://www.hl7.org/fhir/DSTU2/index.html)
 [FHIR STU3 documentation](http://hl7.org/fhir/)
@@ -14,7 +14,16 @@ You will find link to documentation for all topics covered in class.
 [clinFHIR - FHIR test builder](http://clinfhir.com/)
 [Synthea Patient Population Generator](https://github.com/synthetichealth/synthea)
 
+## Tech overview topics
+
+### OAuth2
+
 [OAuth2 Overview](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+
+### JSON
+
+[Official JSON website](http://json.org/)
+[Learn X in Y JSON overview](https://learnxinyminutes.com/docs/json/)
 
 ### Markdown
 
