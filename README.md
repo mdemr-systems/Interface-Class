@@ -12,6 +12,10 @@ You will find links to documentation for all topics covered in class.
 
 [Centricity FHIR developer portal](https://mydata.gehealthcare.com/home)
 
+[HAPI-FHIR - Java FHIR library](http://hapifhir.io/)
+
+[SMART on FHIR - front end FHIR library](http://docs.smarthealthit.org/)
+
 [clinFHIR - FHIR test builder](http://clinfhir.com/)
 
 [Synthea Patient Population Generator](https://github.com/synthetichealth/synthea)
