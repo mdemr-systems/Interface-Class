@@ -2,6 +2,10 @@
 
 You will find links to documentation for all topics covered in class.
 
+Postman is required for this class. Download it at the following link.
+
+[Download Postman](https://www.getpostman.com/apps)
+
 # Documentation
 
 ## FHIR Official
@@ -43,6 +47,15 @@ You will find links to documentation for all topics covered in class.
 [Collection of REST standards](http://standards.rest/)
 
 [Original REST Disseration](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+
+## HTTP
+
+[Overview of HTTP by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+
+## API
+
+[What is an API? by freecode camp](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
+[Wikipedia entry](https://en.wikipedia.org/wiki/Application_programming_interface)
 
 ## Markdown
 
