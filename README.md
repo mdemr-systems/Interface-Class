@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/mdemr-systems/interface-cl
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Here is a link to the main DSTU2 documention.
+
+https://www.hl7.org/fhir/DSTU2/index.html
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
