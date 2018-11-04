@@ -4,9 +4,17 @@ You can use the [editor on GitHub](https://github.com/mdemr-systems/interface-cl
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Here is a link to the main DSTU2 documention.
+## Documentation
 
-https://www.hl7.org/fhir/DSTU2/index.html
+[FHIR DSTU2 documentation](https://www.hl7.org/fhir/DSTU2/index.html)
+[FHIR STU3 documentation](http://hl7.org/fhir/)
+
+[Centricity FHIR developer portal](https://mydata.gehealthcare.com/home)
+
+[clinFHIR - FHIR test builder](http://clinfhir.com/)
+[Synthea Patient Population Generator](https://github.com/synthetichealth/synthea)
+
+[OAuth2 Overview](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
 ### Markdown
 
