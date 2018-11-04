@@ -1,4 +1,4 @@
-Welcome the class website!
+**Welcome the class website!**
 
 You will find link to documentation for all topics covered in class.
 
@@ -7,25 +7,26 @@ You will find link to documentation for all topics covered in class.
 ## FHIR
 
 [FHIR DSTU2 documentation](https://www.hl7.org/fhir/DSTU2/index.html)
+
 [FHIR STU3 documentation](http://hl7.org/fhir/)
 
 [Centricity FHIR developer portal](https://mydata.gehealthcare.com/home)
 
 [clinFHIR - FHIR test builder](http://clinfhir.com/)
+
 [Synthea Patient Population Generator](https://github.com/synthetichealth/synthea)
 
-## Tech overview topics
-
-### OAuth2
+## OAuth2
 
 [OAuth2 Overview](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
-### JSON
+## JSON
 
 [Official JSON website](http://json.org/)
+
 [Learn X in Y JSON overview](https://learnxinyminutes.com/docs/json/)
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
