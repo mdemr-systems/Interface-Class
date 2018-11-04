@@ -24,13 +24,23 @@ You will find links to documentation for all topics covered in class.
 
 ## OAuth2
 
-[OAuth2 Overview](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+[OAuth2 RFC standard](https://tools.ietf.org/html/rfc6749)
+
+[OAuth.net - good resource](https://oauth.net/2/)
+
+[DigitalOcean OAuth2 Overview](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
 ## JSON
 
 [Official JSON website](http://json.org/)
 
 [Learn X in Y JSON overview](https://learnxinyminutes.com/docs/json/)
+
+## RESTful API
+
+[restfulapi.net - good resource](https://restfulapi.net/)
+
+[Original REST Disseration](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
 ## Markdown
 
