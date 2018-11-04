@@ -40,6 +40,8 @@ You will find links to documentation for all topics covered in class.
 
 [restfulapi.net - good resource](https://restfulapi.net/)
 
+[Collection of REST standards](http://standards.rest/)
+
 [Original REST Disseration](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
 ## Markdown
