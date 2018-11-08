@@ -14,7 +14,7 @@ Notepad++ is a very handy text editor for windows.
 
 [Notepad++ FHIR plugin](http://wiki.hl7.org/index.php?title=FHIR_Notepad%2B%2B_Plugin_Documentation)
 
-[FHIR, CCDA, and CSV resource generator](https://github.com/synthetichealth/synthea)
+[Synthea FHIR, CCDA, and CSV resource generator (requires Git and command line knowledge)](https://github.com/synthetichealth/synthea)
 
 # Documentation
 
