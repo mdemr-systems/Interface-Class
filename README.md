@@ -6,15 +6,19 @@ Postman is required for this class. Download it at the following link.
 
 [Download Postman](https://www.getpostman.com/apps)
 
-[Examples from the presentation](https://mdemr-systems.github.io/Interface-Class/examples)
-
 # Documentation
 
-## FHIR Official
+## FHIR Documentation
+
+[FHIR DSTU2 cheat sheet](https://fire.ly/wp-content/uploads/2017/02/CHEAT-SHEET-DSTU2_feb-2017.pdf)
 
 [FHIR DSTU2 documentation](https://www.hl7.org/fhir/DSTU2/index.html)
 
-[FHIR STU3 documentation](http://hl7.org/fhir/)
+[FHIR DSTU2 search](https://www.hl7.org/fhir/DSTU2/search.html)
+
+[FHIR DSTU2 resource list](https://www.hl7.org/fhir/DSTU2/resourcelist.html)
+
+[FHIR Wiki](http://wiki.hl7.org/index.php?title=FHIR)
 
 ## FHIR Development and Testing
 
@@ -57,29 +61,5 @@ Postman is required for this class. Download it at the following link.
 ## API
 
 [What is an API? by freecode camp](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
+
 [Wikipedia entry](https://en.wikipedia.org/wiki/Application_programming_interface)
-
-## Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
