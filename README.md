@@ -7,6 +7,7 @@ You will find links to documentation for all topics covered in class.
 Postman is required for this class. Download it at the following link. [Download](https://www.getpostman.com/apps)
 
 Notepad++ is a very handy text editor for windows. [Download](https://notepad-plus-plus.org/downloads/)
+(If you're not running windows any tabbed text editor will work. Having tabs is nice because we will be working with multiple text files over the class.)
 
 ## Advanced Tools
 
