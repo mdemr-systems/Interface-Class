@@ -2,21 +2,19 @@
 
 You will find links to documentation for all topics covered in class.
 
-# Tools for Class
+## Tools for Class
 
 Postman is required for this class. Download it at the following link. [Download](https://www.getpostman.com/apps)
 
 Notepad++ is a very handy text editor for windows. [Download](https://notepad-plus-plus.org/downloads/)
 
-# Advanced Tools
+## Advanced Tools
 
 Notepad++ FHIR plugin [Download](http://wiki.hl7.org/index.php?title=FHIR_Notepad%2B%2B_Plugin_Documentation)
 
 Synthea FHIR, CCDA, and CSV resource generator (requires Git and command line knowledge) [Download](https://github.com/synthetichealth/synthea)
 
-# Documentation
-
-## FHIR Documentation
+## FHIR DSTU2 Documentation
 
 [FHIR DSTU2 cheat sheet](https://fire.ly/wp-content/uploads/2017/02/CHEAT-SHEET-DSTU2_feb-2017.pdf)
 
