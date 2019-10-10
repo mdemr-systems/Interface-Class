@@ -48,6 +48,8 @@ Synthea FHIR, CCDA, and CSV resource generator (requires Git and command line kn
 
 [DigitalOcean OAuth2 Overview](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
+[Good YouTube video covering OAuth2](https://www.youtube.com/watch?v=996OiexHze0)
+
 ## JSON
 
 [Official JSON website](http://json.org/)
