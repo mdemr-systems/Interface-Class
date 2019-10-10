@@ -4,7 +4,7 @@ You will find links to documentation for all topics covered in class.
 
 ## Tools for Class
 
-Postman is required for this class. Download it at the following link. [Download](https://www.getpostman.com/apps)
+Postman is used to follow along with the FHIR examples. [Download](https://www.getpostman.com/apps)
 
 Notepad++ is a very handy text editor for windows. [Download](https://notepad-plus-plus.org/downloads/)
 
